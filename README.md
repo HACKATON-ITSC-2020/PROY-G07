@@ -1,0 +1,2 @@
+# PROY-G07
+Desarrollo del GRUPO 07 del HACKATHON ITSC 2020
